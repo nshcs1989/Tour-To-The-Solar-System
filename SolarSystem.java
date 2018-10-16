@@ -4,7 +4,12 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/*
+    SolarSystem is the main JFrame, where the user can choose the button of "Visited Planets by Human" to study about the planets,
+    which humanity visited. The user may also choose the button of "Tour the Planets in Solar System" to study about the planets 
+    in our solar system. Also, there are two JMenu for options and help.
 
+*/
 
 public class SolarSystem extends JFrame implements ActionListener {
 
