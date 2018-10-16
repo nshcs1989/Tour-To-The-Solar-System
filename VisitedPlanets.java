@@ -3,6 +3,10 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/*
+    VisitedPlanets is a JFrame which consists of photos and buttons to three planets- Venus, Mars, and Titan(moon of Saturn).
+    The buttons open for each planet, a JFrame which consists of photos and information about the planet.
+*/
 
 public class VisitedPlanets extends JFrame implements ActionListener {
 
