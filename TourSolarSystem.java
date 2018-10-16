@@ -1,6 +1,9 @@
 import javax.swing.*;
 import java.awt.*;
 
+/*
+    TourSolarSystem is a JFrame which consists of photos and general information about all the planets in our solar system.
+*/
 
 public class TourSolarSystem extends JFrame {
 
