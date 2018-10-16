@@ -5,6 +5,11 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.net.URL;
 
+/*
+    This class consists all URLs to the photos of all planets in our solar system. In case that there is an error of loading 
+    a photo from the network, the program will be closed, and an Error message will show to the user.
+*/
+
 public class PhotosOfPlanets {
 
 
