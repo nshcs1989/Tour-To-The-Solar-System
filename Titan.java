@@ -2,7 +2,10 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Titan extends JFrame {
-
+    
+    /*
+        This class is a JFrame which consists all information and photos about Saturn's moon Titan.
+    */
     private final GridBagLayout layout;
     private final GridBagConstraints constraints;
     private JLabel lebelHeader, moonTitan,insideTitan,titanEx1,titanEx2, titanEx3, titanEx4;
