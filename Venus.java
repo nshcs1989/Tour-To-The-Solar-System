@@ -3,7 +3,9 @@ import java.awt.*;
 
 public class Venus extends JFrame {
 
-
+    /*
+        This class is a JFrame which consists all information and photos about the planet Venus.
+    */
     private final GridBagLayout layout;
     private final GridBagConstraints constraints;
     private JLabel lebelHeader, planetOfVenus,insideVenus,veneraEx1,veneraEx2;
