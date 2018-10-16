@@ -3,9 +3,9 @@ import java.awt.*;
 
 public class Mars extends JFrame {
 
-
-
-
+    /*
+        This class is a JFrame which consists all information and photos about the planet Mars.
+    */
     private final GridBagLayout layout;
     private final GridBagConstraints constraints;
     private JLabel lebelHeader, planetOfMars,insideVenus,marsEx1, marsEx2, marsEx3, marsEx4, marsEx5;
