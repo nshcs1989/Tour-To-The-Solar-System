@@ -1,6 +1,6 @@
 # Tour-To-The-Solar-System
 
-This project was created to practice GUI(swing, awt,layout managers), Networking and OOP.
+This project was created to practice GUI(swing, awt and layout managers), Networking and OOP.
 
 SolarSystem is the main JFrame, where the user can choose the button of "Visited Planets by Human" to study about the planets, which humanity visited. The user may also choose the button of "Tour the Planets in Solar System" to study about the planets in our solar system. Also, there are two JMenu for options and help. 
 
