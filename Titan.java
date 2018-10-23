@@ -27,7 +27,7 @@ public class Titan extends JFrame {
         moonTitan=new JLabel(PhotosOfPlanets.iconOfTitan);
         addComponent(moonTitan,1,0,2,9);
         titanProperties=new JLabel[8];
-        venusProp();
+        titanProp();
         insideTitan=new JLabel("Inside Titan");
         font=new Font("Serif",Font.BOLD,30);
         insideTitan.setFont(font);
@@ -52,7 +52,7 @@ public class Titan extends JFrame {
 
     }
 
-    private void venusProp(){
+    private void titanProp(){
         titanProperties[0]=new JLabel("Temperature:    -204.3C\u00B0");
         titanProperties[1]=new JLabel("Self rotation:  15.9 days");
         titanProperties[2]=new JLabel("Length of the day: 116days and 15.9 days");
