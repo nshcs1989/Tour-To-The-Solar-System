@@ -14,13 +14,13 @@ public class PhotosOfPlanets {
 
 
 
-    protected static ImageIcon pIcon;
+    public static ImageIcon pIcon;
 
-    protected static ImageIcon iconOfVenus,iconOfMars, iconOfTitan, iconOfEarth, iconOfMercury;
-    protected static ImageIcon iconOfJupiter,iconOfSaturn, iconOfUranus, iconOfNeptune;
-    protected static ImageIcon insideVenus1, insideVenus2, insideVenus3;
-    protected static ImageIcon insideMars1, insideMars2, insideMars3, phobos, deimos;
-    protected static ImageIcon insideTitan1, insideTitan2, insideTitan3;
+    public static ImageIcon iconOfVenus,iconOfMars, iconOfTitan, iconOfEarth, iconOfMercury;
+    public static ImageIcon iconOfJupiter,iconOfSaturn, iconOfUranus, iconOfNeptune;
+    public static ImageIcon insideVenus1, insideVenus2, insideVenus3;
+    public static ImageIcon insideMars1, insideMars2, insideMars3, phobos, deimos;
+    public static ImageIcon insideTitan1, insideTitan2, insideTitan3;
 
 
 
